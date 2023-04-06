@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A Python Screenrecorder0.</h4>
+<h4 align="center">A Python Screenrecorder.</h4>
 
 
 
